@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mnemonicecologies.com/sitemap.xml
+Sitemap: https://mnemonicecologies.me/sitemap.xml
